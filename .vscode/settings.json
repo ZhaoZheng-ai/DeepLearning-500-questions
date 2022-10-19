@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8f895c90-5e7d-426b-85fc-19ae16e19ddc/AppServices/subscriptions/8f895c90-5e7d-426b-85fc-19ae16e19ddc/resourceGroups/Zz1019_group/providers/Microsoft.Web/sites/Zz1019",
+    "appService.deploySubpath": "."
+}
